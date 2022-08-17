@@ -33,7 +33,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react'],
     source: 'https://github.com/estherberg/react-form',
     info: "This website presents a form which can be completed by the user.",
-    picture: './media/form.JPG'
+    picture: './media/form.jpg'
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-html5','fab fa-css3-alt'],
     source: 'https://github.com/estherberg/yodabot',
     info: "This website presents a bot which let us to speak with Yoda from star wars.",
-    picture: './media/yoda.JPG'
+    picture: './media/yoda.jpg'
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ export const portfolioData = [
     languagesIcons: ['fab fa-js','fab fa-react'],
     source: 'https://github.com/estherberg/REACT-CV1',
     info: 'It’s my own website wich present my CV ans my skills.',
-    picture: './media/reactcv.JPG'
+    picture: './media/reactcv.jpg'
   },
   {
     id: 8,
