@@ -30,7 +30,7 @@ const Contact = () => {
                         </div>
                         <div className='socialNetwork'>
                             <ul>
-                                <a href='https://www.linkedin.com/in/esther-elbaz-bergman-373725202/' target="_blank" rel="noopener noreferrer">
+                                <a href='https://www.linkedin.com/in/esther-elbaz-373725202/' target="_blank" rel="noopener noreferrer">
                                     <h4>LinkedIn</h4>
                                     <i className='fab fa-linkedin'></i>
                                     </a>
