@@ -190,10 +190,14 @@
           padding: 1rem;
           transition: .2s;
   
+
+          
           &:hover {
             background: $color-4;
           }
+
         }
+    
         .text {
           text-align: justify;
           padding-bottom: 1rem;
@@ -202,7 +206,9 @@
           margin: 1rem auto;
           width: 200px;
         }
+       
       }
+
     }
   }
   @media (max-width: 650px) and (min-width: 521px){

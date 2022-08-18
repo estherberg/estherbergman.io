@@ -13,7 +13,7 @@ class Project extends Component {
 
 
     render() {
-        let {name, languagesIcons, source, info, picture}=this.props.item;
+        let {name, languagesIcons, source,website, info, picture}=this.props.item;
 
 
 
@@ -40,11 +40,15 @@ class Project extends Component {
                                       <div className="sourceCode">
                                           <a href={source} rel="noopener noreferrer"
                                           className="button" target="_blank">Source code</a></div>
-                                      </div>  
-
+                                      </div>
+                                      <div className="Website online">
+                                          <a href={website} rel="noopener noreferrer"
+                                          className="button1" target="_blank">Website online</a>
+                                      </div> 
                                       <p className="text">{info}</p>
 
 <div className="button return" onClick={this.handleInfo}>Go back to the page</div>
+
                                       </div>
                                       </div>
                             )
