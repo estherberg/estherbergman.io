@@ -68,7 +68,7 @@ export const portfolioData = [
     languages: ['C'],
     languagesIcons: ['fab fa-cuttlefish'],
     source: 'https://github.com/estherberg/CoderByte-test',
-    info: 'It’s two tests : one about string and Sum of an array in c++',
+    info: 'It’s two tests : one about string and an other about Sum of an array in c++',
     picture: './media/cb.png'
   }
 ]
