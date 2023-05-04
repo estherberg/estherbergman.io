@@ -55,7 +55,7 @@ const Navigation = () => {
           </li> */}
         </ul>
         <div className="signature">
-          <p>EstherBergman - 2022</p>
+          <p>Esther Bergman - 2023</p>
         </div>
       </div>
     </div>
