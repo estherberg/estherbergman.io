@@ -11,7 +11,8 @@ class Projectlist extends Component {
             {id:3, value:"html"},
             {id:4, value:"javascript"},
             {id:5, value:"php"},
-            {id:6, value:"C"}
+            {id:6, value:"C"},
+            {id:7, value:"Mendix"}
            
         ],
         selectedRadio : "css"

@@ -78,5 +78,15 @@ export const portfolioData = [
     website:'https://github.com/estherberg/CoderByte-test',
     info: 'It’s two tests : one about string and an other about Sum of an array in c++',
     picture: './media/cb.png'
+  },
+  {
+    id: 9,
+    name: 'Scoring development goal',
+    languages: ['Mendix'],
+    languagesIcons: ['fab fa-cuttlefish'],
+    source: 'https://scoringrse-sandbox.mxapps.io/login.html',
+    website:'https://scoringrse-sandbox.mxapps.io/login.html',
+    info: 'It’s an application which allows the company to self-evaluate on the objectives of sustainable development goal',
+    picture: './media/score.jpg'
   }
 ]
