@@ -22,8 +22,6 @@ integration, deployment and maintenance.
       <div className="exp-2">
         <h4>Segula Technologies - Web Developer</h4>
         <h5>2021</h5>
-        <h4>Segula Technologies - Web Developer</h4>
-        <h5>January-February 2021</h5>
         <p>Create code in TypeScript, Angular.</p>
         <p>Using Bootstarp – CSS.</p>
         <p>Database: Adding fields to a table (SQL).</p>
