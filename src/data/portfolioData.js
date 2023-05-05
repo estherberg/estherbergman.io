@@ -87,6 +87,6 @@ export const portfolioData = [
     source: 'https://scoringrse-sandbox.mxapps.io/login.html',
     website:'https://scoringrse-sandbox.mxapps.io/login.html',
     info: 'It’s an application which allows the company to self-evaluate on the objectives of sustainable development goal',
-    picture: './media/score.jpg'
+    picture: './media/score.jpg',
   }
 ]
