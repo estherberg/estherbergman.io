@@ -5,7 +5,7 @@ const Experience = () => {
     <div className="experience">
       <h3>Experiences</h3>
       <div className="exp-1">
-        <h4>TOCnDix -- Mendix Developperr</h4>
+        <h4>TOCnDix -- Software Developper</h4>
         <h5>2022-2023</h5>
         <p>
         ✓Developing secure and enterprise grade low code application using the
