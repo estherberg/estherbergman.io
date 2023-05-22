@@ -20,7 +20,7 @@ ReactJs & CSS3.</p>
         <p>✓Design, data model creation, actual
 development, integration, deployment,
 maintenance and security.</p>
-       
+       <br></br>
       </div>
       <div className="exp-2">
         <h4>Segula Technologies - Web Developer</h4>

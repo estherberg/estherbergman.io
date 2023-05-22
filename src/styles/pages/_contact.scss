@@ -52,7 +52,7 @@
       text-align: center;
       margin-top: 0.3rem;
       position: relative;
-      color: $color-2;
+      color: $color-1;
 
       &:after {
         content: '';
@@ -79,7 +79,7 @@
         font-size: 1.4rem;
         position: absolute;
         transform: translateY(2px);
-        color: $color-2;
+        color: $color-3;
       }
       span {
         font-size: 1.4rem;
@@ -125,7 +125,7 @@
         }
 
         i {
-          color: $color-2;
+          color: $color-3;
           margin-top: .3rem;
         }
       }
