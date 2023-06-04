@@ -56,13 +56,14 @@
 
                 &:hover i {
                     transform: translate(3px,3px);
+                    
                 }
 
                 a  {
                    color: $color-5; 
                 }
                 .navActive {
-                    color: $color-4;
+                    color: white;
                 }
                 i {
                     position: absolute;

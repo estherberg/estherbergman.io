@@ -1,7 +1,7 @@
 .home {
 
     .homeContent {
-      background: linear-gradient(115deg, $color-1 50%, transparent 100%);
+      background: linear-gradient(115deg,rgba(205, 170, 170, 0.764) 50%, transparent 100%);
       min-height: $min-height;
       width: 100%;
       min-height: 500px;
@@ -28,7 +28,7 @@
         h1 {
           font-size: 5rem;
           font-family: $font-3;
-          color: $color-5;
+          color: $color-1;
           text-transform: uppercase;
           text-shadow: 3px 6px 2px $black;
         }
@@ -41,14 +41,14 @@
         .pdf {
           a {
             font-size: 1.5rem;
-            background: $color-6;
+            background: rgb(233, 228, 228);
             padding: 1rem 2rem;
             border-radius: $borderRadius;
             box-shadow: 0 5px 1px rgb(15, 15, 15);
             transition: 0.2s ease;
   
             &:hover {
-              background: $color-4;
+              background: #d1cddd;
             }
           }
         }
