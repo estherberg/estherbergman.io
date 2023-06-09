@@ -45,7 +45,7 @@ const Contact = () => {
             </li>
             <li>
               <i className='fas fa-mobile-alt'></i>
-              <CopyToClipboard text="+972539309450">
+              <CopyToClipboard text="00972539309450">
                 <span className='clickInput' onClick={()=> {alert('Téléphone copié !');}}>+972 (0)53 930 9450</span>
               </CopyToClipboard>
             </li>
@@ -69,7 +69,7 @@ const Contact = () => {
             </li>
             <li>
               <i className='fas fa-mobile-alt'></i>
-              <CopyToClipboard text="+33695443075">
+              <CopyToClipboard text="0033695443075">
                 <span className='clickInput' onClick={()=> {alert('Téléphone copié !');}}>+33 (0)6 95 44 30 75</span>
               </CopyToClipboard>
             </li>
