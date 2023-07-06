@@ -6,6 +6,7 @@ import Knowledges from "./pages/Knowledges";
 import Portfolio from "./pages/Portfolio";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import HomePage from './pages/HomePage';
 
 const App = () => {
   return (
@@ -16,7 +17,9 @@ const App = () => {
           <Route path="/Portfolio" element={<Portfolio />} />
           <Route path="/Contact" element={<Contact />} />
           <Route path="/Knowledges" element={<Knowledges />} />
+          <Route path="/HomePage" element={<HomePage />} />
           <Route path="*" element={<NotFound />} />
+         
         </Routes>
       </BrowserRouter>
     </>

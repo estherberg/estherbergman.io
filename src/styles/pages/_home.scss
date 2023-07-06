@@ -1,7 +1,7 @@
 .home {
 
     .homeContent {
-      background: linear-gradient(115deg,rgba(205, 170, 170, 0.764) 50%, transparent 100%);
+      background: linear-gradient(115deg,$color-2, 50%, transparent 100%);
       min-height: $min-height;
       width: 100%;
       min-height: 500px;
@@ -28,14 +28,14 @@
         h1 {
           font-size: 5rem;
           font-family: $font-3;
-          color: $color-1;
+          color: $color-5;
           text-transform: uppercase;
-          text-shadow: 3px 6px 2px $black;
+          //text-shadow: 3px 6px 2px $black;
         }
         h2 {
           font-size: 2.5rem;
           padding: 1.5rem 0 7rem;
-          color: $color-6;
+          color: $color-5;
           text-shadow: 1px 4px 1px $black;
         }
         .pdf {
